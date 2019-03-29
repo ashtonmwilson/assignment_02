@@ -1,12 +1,12 @@
-# Assignment 2
+<h1> Assignment 02 </h1>
 <br />
-## Ashton Wilson
-***
+<h2> Ashton Wilson </h2>
+<br />
 <p>I decided to take this class because it is required for my
 <br />Major. I am also interested in learning html and CSS. I took this class for a third time, because I thought I would be better about procrastination, and time dedication. I am not.
 </p>
 <br />
-### I hope to learn:
+<h3> I hope to learn: </h3>
 <ol>
   <li>How to make a beautifully initeractive website.</li>
   <li>To take a photoshop mockup, and write code to bring it to life.</li>
