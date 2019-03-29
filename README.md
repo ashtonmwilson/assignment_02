@@ -2,8 +2,7 @@
 <br />
 <h2> Ashton Wilson </h2>
 <br />
-<p>I decided to take this class because it is required for my
-<br />Major. I am also interested in learning html and CSS. I took this class for a third time, because I thought I would be better about procrastination, and time dedication. I am not.
+<p>I decided to take this class because it is required for my Major. I am also interested in learning html and CSS. I took this class for a third time, because I thought I would be better about procrastination, and time dedication. I am not.
 </p>
 <br />
 <h3> I hope to learn: </h3>
